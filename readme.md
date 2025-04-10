@@ -6,6 +6,12 @@ The **Calculator App** is a simple and interactive web-based calculator built us
 
 You can try the live demo of the Calculator App [here](#).
 
+## Screenshots
+
+### Calculator Interface
+
+![Calculator Interface](assets/Screenshot.png)
+
 ## Features
 
 - Perform basic arithmetic operations: `+`, `-`, `*`, `/`, `%`.
@@ -15,11 +21,6 @@ You can try the live demo of the Calculator App [here](#).
 - Responsive and visually appealing design with a modern UI.
 - Error handling for invalid expressions.
 
-## Screenshots
-
-### Calculator Interface
-
-![Calculator Interface](assets/Screenshot.png)
 
 ## Technologies Used
 
@@ -59,7 +60,7 @@ This project was created by **Aryan Raj**, a passionate web developer with a kee
 You can connect with Aryan on:
 
 - [GitHub](https://github.com/geeksaryan)  
-- [LinkedIn](https://linkedin.com/in/aryan-kumar-220791278)  
+- [LinkedIn](linkedin.com/in/aryan-kumar-220791278)  
 - [Twitter](https://x.com/aryanraj7981)
 
 Feel free to reach out for collaboration or to share feedback on this project!
